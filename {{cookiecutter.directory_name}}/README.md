@@ -10,10 +10,8 @@ Prerequisites
 Get started
 ------------
 
-`
 # set the global environment variables
-source global_env.sh
-`
+    source global_env.sh
 
 Organisation of the `{{cookiecutter.repo}}` repository
 ------------------------------------------------------
