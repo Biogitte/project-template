@@ -1,0 +1,9 @@
+{
+    "project": "Project name.",
+    "repo": "{{ cookiecutter.project.lower().replace(' ', '_') }}",
+    "author": "Author name.",
+    "description": "Concise description of the project.",
+    "license": ["Equancy All rights reserved", "MIT"],
+    "directory_name": "Directory name",
+    "directory_path": "Path to working directory"
+}
