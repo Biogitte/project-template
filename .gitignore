@@ -63,9 +63,6 @@ target/
 # Jupyter notebooks
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/*
-
 # MacOS
 .DS_Store
 
